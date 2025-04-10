@@ -1,4 +1,4 @@
--- 10 questions
+-- 08 questions
 
 --1 -find number of businesses category
 
